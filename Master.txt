@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-/data/test.zip https://wordpress.org/latest.zip
+<Version: 1.10>
+/data/MAP034.json https://raw.githubusercontent.com/OrfeasGS/TheDealUpdater/master/Map034.json
 <End of Version>
